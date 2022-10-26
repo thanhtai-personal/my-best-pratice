@@ -1,1 +1,0 @@
-export const FEATURE_AUTH_KEY = 'authentication'
